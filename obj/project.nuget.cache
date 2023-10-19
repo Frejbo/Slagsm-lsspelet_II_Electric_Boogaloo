@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+AVzPDIgfw3lqL5aNdgJ3oaqUMvflD4dr6G2pzfhfZaDLW/E5Pg0AQRFaumk1s+5p7xrxFo7PPU6X5X/DdXv4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Frej\\Documents\\Programmering\\Slagsmålsspelet_II_Electric_Boogaloo\\Slagsmålsspelet_II_Electric_Boogaloo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Frej\\.nuget\\packages\\raylib-cs\\4.5.0.4\\raylib-cs.4.5.0.4.nupkg.sha512",
+    "C:\\Users\\Frej\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
