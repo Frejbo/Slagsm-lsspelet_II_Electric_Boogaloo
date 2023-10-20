@@ -38,12 +38,12 @@ class Person
         return health > 0;
     }
     public void Draw(int x, int y, Color color, int scaleX = 1) {
-        Raylib.DrawTexture(
+        Raylib.DrawTexturePro(
             idle,
-            // new Rectangle(0, 0, idle.width, idle.height),
-            // new Rectangle(0, 0, idle.width * scaleX, idle.height),
-            // new Vector2(x, y),
-            x-idle.width/2, y-idle.height/2,
+            new Rectangle(0, 0, idle.width * scaleX, idle.height),
+            new Rectangle(0, 0, idle.width, idle.height),
+            new Vector2(-x+idle.width/2, -y+idle.height/2),
+            0,
             color
         );
     }
