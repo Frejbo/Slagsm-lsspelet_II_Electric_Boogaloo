@@ -10,7 +10,7 @@ class Person
     private float health = 100;
     private Random rand = new();
     private float strengthMultiplier = 1;
-    List<Weapon> weapons = new();
+    public List<Weapon> weapons = new();
     int selectedWeapon = 0;
     Texture2D idle = Raylib.LoadTexture("Assets/Enemy.png");
 
@@ -19,7 +19,10 @@ class Person
         name = newName;
         health = newHealth;
     }
-
+    public double GetHealth()
+    {
+        return Math.Round(health);
+    }
     public float Attack()
     {
         float damage = weapons[selectedWeapon].damage() * strengthMultiplier;

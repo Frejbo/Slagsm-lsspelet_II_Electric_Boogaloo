@@ -16,4 +16,8 @@ class Weapon
         wear *= .8f;
         return d;
     }
+    public string GetStats()
+    {
+        return ($"{name} (wear: {Math.Round(wear)}, damage: {baseDamage}, actual damage: {Math.Round(baseDamage * wear)})");
+    }
 }
