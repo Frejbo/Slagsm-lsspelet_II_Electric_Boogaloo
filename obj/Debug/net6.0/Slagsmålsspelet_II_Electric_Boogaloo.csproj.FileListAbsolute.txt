@@ -20,3 +20,4 @@ C:\Users\Frej\Documents\Programmering\Slagsmålsspelet_II_Electric_Boogaloo\obj\
 C:\Users\Frej\Documents\Programmering\Slagsmålsspelet_II_Electric_Boogaloo\obj\Debug\net6.0\Slagsmålsspelet_II_Electric_Boogaloo.pdb
 C:\Users\Frej\Documents\Programmering\Slagsmålsspelet_II_Electric_Boogaloo\obj\Debug\net6.0\Slagsmålsspelet_II_Electric_Boogaloo.genruntimeconfig.cache
 C:\Users\Frej\Documents\Programmering\Slagsmålsspelet_II_Electric_Boogaloo\obj\Debug\net6.0\ref\Slagsmålsspelet_II_Electric_Boogaloo.dll
+C:\Users\Frej\Documents\Programmering\Slagsmålsspelet_II_Electric_Boogaloo\bin\Debug\net6.0\Assets\Enemy.png

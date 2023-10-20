@@ -12,7 +12,7 @@ class Person
     private float strengthMultiplier = 1;
     List<Weapon> weapons = new();
     int selectedWeapon = 0;
-    Texture2D idle = Raylib.LoadTexture("C:/Users/Frej/Documents/Programmering/Slagsmålsspelet_II_Electric_Boogaloo/Assets/Enemy.png"); // TODO, lyckas inte med relativ path...
+    Texture2D idle = Raylib.LoadTexture("Assets/Enemy.png");
 
     public Person(string newName, int newHealth = 100)
     {

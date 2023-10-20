@@ -29,3 +29,8 @@ void DrawFight()
     p2.Draw(Raylib.GetScreenWidth()-256, Raylib.GetScreenHeight()/2, Color.BLUE, -1);
     Raylib.EndDrawing();
 }
+
+// void DrawStats()
+// {
+//     Raylib.DrawText(p1.)
+// }
